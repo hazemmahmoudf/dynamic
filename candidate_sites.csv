@@ -1,0 +1,16 @@
+site_id,x,y,placement_cost_usd,name
+S01,12.0,18.0,850,Metro_Station_Downtown
+S02,27.5,12.0,920,Shopping_Mall_East
+S03,11.0,36.5,780,University_Campus_North
+S04,24.0,27.0,1100,Commercial_Tower_Central
+S05,6.5,8.5,650,Public_Library_SouthWest
+S06,35.0,38.0,1350,Airport_NorthEast
+S07,18.0,10.5,720,Train_Station_South
+S08,20.0,20.0,980,Main_Square
+S09,15.5,25.3,880,Hospital_Complex
+S10,30.2,18.9,950,Industrial_Zone
+S11,9.8,28.4,760,School_District
+S12,32.5,30.1,1150,New_Residential_Area
+S13,22.3,15.7,820,Business_Park
+S14,13.7,32.1,790,Old_Town_Center
+S15,28.8,35.6,1050,Stadiumj
